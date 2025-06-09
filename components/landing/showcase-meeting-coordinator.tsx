@@ -115,4 +115,3 @@ export function ShowcaseMeetingCoordinator() {
     </Card>
   )
 }
-

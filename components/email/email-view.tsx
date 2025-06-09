@@ -207,4 +207,3 @@ export function EmailView({ emailId, onClose }: EmailViewProps) {
     </div>
   )
 }
-

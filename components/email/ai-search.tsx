@@ -190,4 +190,3 @@ const mockEmails = [
     starred: false,
   },
 ]
-

@@ -117,4 +117,3 @@ export async function analyzeCalendarAvailability(participants: string[], prefer
     ],
   }
 }
-

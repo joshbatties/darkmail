@@ -25,4 +25,3 @@ module.exports = {
 
 console.log("Scanning for unused imports...")
 console.log("This would be implemented with ESLint or TypeScript in a real project")
-

@@ -38,4 +38,3 @@ export function EmailToolbar({ onComposeClick }: EmailToolbarProps) {
     </div>
   )
 }
-

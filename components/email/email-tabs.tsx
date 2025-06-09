@@ -43,4 +43,3 @@ export function EmailTabs({ onSelectEmail }: EmailTabsProps) {
     </Tabs>
   )
 }
-

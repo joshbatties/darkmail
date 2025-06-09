@@ -113,4 +113,3 @@ export function PricingSection() {
     </section>
   )
 }
-

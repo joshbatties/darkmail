@@ -55,4 +55,3 @@ Topic: ${meetingDetails.topic}
     </div>
   )
 }
-

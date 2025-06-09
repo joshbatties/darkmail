@@ -299,4 +299,3 @@ export function MeetingCoordinator({ onClose, recipients, onSchedule }: MeetingC
     </div>
   )
 }
-

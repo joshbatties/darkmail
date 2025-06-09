@@ -27,4 +27,3 @@ export function FooterSection() {
     </footer>
   )
 }
-
